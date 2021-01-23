@@ -43,3 +43,11 @@
     - Explore the relation between User Type and Trip Duration.
     - Explore the relation between  Trip duration, User Type and member gender.
     - Explore the relation between Trip duration, Start trip Day and  member gender.
+
+- Insights:
+    - On Average , Trips took about 9 minutes.
+    - The Most Frequent Day for Starting Trips is Thursday , and the Least are (Saturday/Sunday) the weekends.
+    - In Weekends , trips duration have a little increase than other week days. 
+    - Th Most busy hours during the day are 8am and 5pm , and the Least are from 12am to 5am.
+    - The System has two types of users (Customers and Subscribers) and most of The Users are Subscribers.
+    - On Average , Customers have longer trips than subscribers and Female users have longer trips than males.
